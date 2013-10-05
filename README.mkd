@@ -1,0 +1,8 @@
+# Arduino PID silvia
+
+A little arduion to control the silvia's brew temp with a pid.
+
+## Libraries
+
+* [PID](https://github.com/aconbere/c-PID)
+* [Rotary Encoder](https://github.com/aconbere/c-rotary-encoder)
